@@ -3,7 +3,7 @@ The Cofense Triage v3 integration uses the Cofense Triage v2 API (previous integ
 Security teams can ingest data from Triage such as email reporters, email reports and clusters, threat indicators, and rule matching to name a few. In addition, ingest and create threat indicators, categorize reports, and obtain second stage threat indicators from malicious emails. This integration was integrated and tested with version 1.22.0 of Cofense Triage.
 
 Some changes have been made that might affect your existing content. 
-If you are upgrading from a previous of this integration, see [Breaking Changes](#breaking-changes-from-the-previous-version-of-this-integration-cofense-triage-v3).
+If you are upgrading from a previous of this integration, see [Breaking Changes](#Breaking-changes-from-the-previous-version-of-this-integration-Cofense-Triage-v3).
 
 ## What's new in Cofense Triage v3?
 Use Cofense Triage v3 XSOAR integration application to take advantage of Cofense Triage v2 API for bidirectional communication between Triage and XSOAR. 
